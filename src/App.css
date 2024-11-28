@@ -12,7 +12,6 @@ h2.text-invisible {
         padding-top: 15px;
         visibility: visible;
     }
-
     h2.text-visible {
         visibility: hidden;
     }
